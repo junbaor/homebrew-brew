@@ -3,7 +3,7 @@ class JikeCli < Formula
   homepage 'https://github.com/junbaor/jike-cli'
   url 'https://github.com/junbaor/jike-cli/releases/download/v0.1.2/jike-cli.jar'
   sha256 'fce0e4a78a4d1362ca3345c447494f568c83dfe46ac0030e28c775aa99dbb06c'
-  version "v0.1.1"
+  version "v0.1.2"
 
   bottle :unneeded
   depends_on 'openjdk@8'
