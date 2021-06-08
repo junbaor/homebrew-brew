@@ -1,8 +1,8 @@
 class JikeCli < Formula
   desc '即刻命令行客户端'
   homepage 'https://github.com/junbaor/jike-cli'
-  url 'https://github.com/junbaor/jike-cli/releases/download/v0.1.1/jike-cli.jar'
-  sha256 '08aa932e90c7700ebde91ee6dbf5c6de3c6367b73487d563ebb93d312e71bd0c'
+  url 'https://github.com/junbaor/jike-cli/releases/download/v0.1.2/jike-cli.jar'
+  sha256 'fce0e4a78a4d1362ca3345c447494f568c83dfe46ac0030e28c775aa99dbb06c'
   version "v0.1.1"
 
   bottle :unneeded
