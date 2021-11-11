@@ -6,7 +6,7 @@ class JikeCli < Formula
   version "v0.1.3"
 
   bottle :unneeded
-  depends_on 'temurin8'
+  depends_on 'openjdk@8'
 
   def install
     libexec.install 'jike-cli.jar'
