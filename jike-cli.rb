@@ -5,7 +5,6 @@ class JikeCli < Formula
   sha256 '6ab0534c3b1f7e1a79890edb84230af835f70b2ff32e0bbf7ef1d1f4fe989be7'
   version "v0.1.3"
 
-  bottle :unneeded
   depends_on 'openjdk'
 
   def install
